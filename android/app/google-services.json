@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015781219688",
+    "project_id": "flutterchat-da700",
+    "storage_bucket": "flutterchat-da700.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015781219688:android:cc40e0c6f70bb21a790add",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUBAWlESjx42hzbptLveQ8bAYb-stQR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
